@@ -24,6 +24,7 @@
 
 .colLayout {
 	display: flex;
+	justify-content: space-between;
 }
 
 .imgs {
@@ -81,5 +82,10 @@ p {
 
 .highlight-more {
 	background: #d9d2e9;
+}
+
+.highlight-hsh {
+	background: #1c4587;
+	color: #fffff8;
 }
 
